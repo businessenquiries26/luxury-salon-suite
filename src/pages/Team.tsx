@@ -61,7 +61,7 @@ const Team = () => {
       title: "Master Stylist",
       location: "Uptown Dallas",
       specialties: ["Precision Cuts", "Styling", "Keratin Treatments"],
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=400",
+      image: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=400",
       bio: "Known for creating timeless, elegant styles with modern flair",
     },
   ];
