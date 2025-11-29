@@ -10,7 +10,7 @@ const Hero = () => {
       <div
         className="absolute inset-0 parallax-section"
         style={{
-          backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://images.unsplash.com/photo-1560066984-138dadb4c035?q=80&w=2074')`,
+          backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?q=80&w=2074')`,
         }}
       />
 
