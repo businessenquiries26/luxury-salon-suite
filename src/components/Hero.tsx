@@ -10,7 +10,7 @@ const Hero = () => {
       <div
         className="absolute inset-0 parallax-section"
         style={{
-          backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?q=80&w=2074')`,
+          backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://images.unsplash.com/photo-1633681926022-84c23e8cb2d6?q=80&w=2070')`,
         }}
       />
 
@@ -33,8 +33,7 @@ const Hero = () => {
           <Button
             onClick={() => navigate("/services")}
             size="lg"
-            variant="outline"
-            className="border-2 border-white text-white hover:bg-white hover:text-luxury-black font-semibold text-lg px-8 py-6"
+            className="bg-accent hover:bg-accent/90 text-luxury-black font-semibold text-lg px-8 py-6"
           >
             Explore Services
           </Button>
